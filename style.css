@@ -7,6 +7,11 @@
 .body{
     color: black;
 }
+
+body::-webkit-scrollbar{
+  display:none;
+}
+
 .ab{
     /* background-color: black; */
     color: rgb(212, 212, 212);
